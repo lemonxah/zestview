@@ -1,0 +1,17 @@
+[package]
+name = "zestview"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winit = "0.31.0-beta.4"
+wgpu = "30.0.2"
+image = "0.25.10"
+resvg = "0.50.0"
+libheif-rs = "3.0.0"
+jxl-oxide = "0.12.6"
+glyphon = "0.12.0"
+notify = "9.0.0-rc.9"
+thiserror = "2.0.21"
+pollster = "0.4.0"
+bytemuck = "1.25.2"

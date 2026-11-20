@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ZestView
+Comment=Fast GPU image viewer with HDR support
+Exec=zestview %f
+Icon=image-x-generic
+Terminal=false
+Type=Application
+Categories=Graphics;Viewer;
+Keywords=image;photo;viewer;hdr;gif;heic;avif;jxl;svg;
+MimeType=image/png;image/apng;image/jpeg;image/gif;image/webp;image/bmp;image/x-icon;image/vnd.microsoft.icon;image/tiff;image/x-tga;image/x-targa;image/vnd-ms.dds;image/x-dds;image/vnd.radiance;image/x-exr;image/x-portable-anymap;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-qoi;image/qoi;image/svg+xml;image/svg+xml-compressed;image/heic;image/heif;image/avif;image/jxl;
